@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier-new", Courier, monospace;
+ /* background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);*/
+  background-image: linear-gradient(89deg, #9890e3 0%, #b1f4cf 100%);
+
+}
+
+
+button{
+	cursor: pointer;
+}
